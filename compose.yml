@@ -4,8 +4,8 @@ musicbot:
   links:
     - mongo
   environment:
-    - BOT_NAME=
-    - API_TOKEN=
+    - BOT_NAME= TeleMusica
+    - API_TOKEN=1235042476:AAEvHeVXDurVelLFGrSUQzdelXuiZIhRJ38 
     - BOTAN_TOKEN=Optional botan token
     - MONGO_HOST=MONGODB_URI
     - CHANNEL=
